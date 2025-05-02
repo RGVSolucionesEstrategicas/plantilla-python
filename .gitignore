@@ -18,3 +18,6 @@ logs/
 *.egg-info/
 dist/
 build/
+
+# Archivos de configuración de IDEs
+.python-version
